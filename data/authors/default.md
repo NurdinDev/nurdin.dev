@@ -1,16 +1,46 @@
 ---
 name: Nureddin Badawi
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter/
-linkedin: https://www.linkedin.com
-github: https://github.com
+avatar: /static/images/logo.png
+occupation: Senior NodeJs Developer
+email: hey@nurdin.dev
+twitter: https://twitter.com/nurdindev
+linkedin: https://www.linkedin.com/in/nurdindev
+github: https://github.com/nurdendev
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+import Twemoji from './Twemoji'
+import Timeline from './Timeline'
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+## Hi <Twemoji emoji="waving hand" /> I'm Nureddin Badawi <span class="arabic">(نور الدين بدوي)</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I like coding, I do stuff related to **Web development**, I work mainly with **React/Node** always use **Typescript**
+
+<!-- #### A brief timeline of my career: -->
+
+<!-- <Timeline /> -->
+
+See more about my working experiences at [my resume](/resume) page.
+
+## Why have this blog?
+
+> Because sharing is learning
+
+I believe noting down and sharing is the best way to learn! So I created this blog, where I keep things that I learned, find useful, and necessary to save for later.
+
+More than just technical stuff, there are personal thoughts about work and life from the perspective of a Software Engineer.
+
+It would be highly appreciated if I could read your comment or hear your thoughts on what I wrote <Twemoji emoji="smiling-face-with-heart-eyes"/>
+
+## Tech stack
+
+This blog is hosted on [Vercel](https://vercel.com/), built with [Next.js](https://nextjs.org/) ([Preact](https://preactjs.com/) for production) and [Tailwind CSS](https://tailwindcss.com/) using **Tailwind Nextjs Starter Blog**.
+
+A huge thanks to [Timothy Lin](https://twitter.com/timlrxx) for the minimal, lightweight, and super easy-to-customize blog [starter](https://github.com/timlrx/tailwind-nextjs-starter-blog).
+
+- See my [repository](https://github.com/nurdindev/nurdin.dev) for this blog.
+
+## Images
+
+All images in this blog are from [Unsplash](https://unsplash.com/), [imgur](https://imgur.com) and [GIPHY](https://giphy.com/) - Thanks for the free resources!
+
+---

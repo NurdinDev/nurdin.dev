@@ -2,18 +2,18 @@ const siteMetadata = {
   title: 'Nurdin.dev',
   author: 'Nureddin Badawi',
   headerTitle: 'Nureddin Badawi',
-  description: 'My personal website',
+  description: "Nureddin's blog",
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://nurdin.dev',
+  siteRepo: 'https://github.com/nurdindev/nurdin.dev',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'nurdin.dev@gmail.com',
+  email: 'hey@nurdin.dev',
   github: 'https://github.com/nurdindev',
   twitter: 'https://twitter.com/nurdindev',
-  linkedin: 'https://www.linkedin.com/nurdindev',
+  linkedin: 'https://www.linkedin.com/in/nurdindev',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics, umami or googleAnalytics
